@@ -21025,7 +21025,7 @@
 	{
 		"uri": "http://hbz-nrw.de/regal#usageManual",
 		"comment": "",
-		"label": "Usage manual",
+		"label": "Notes on usage",
 		"icon": "",
 		"name": "usageManual",
 		"referenceType": "String",
