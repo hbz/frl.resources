@@ -20659,7 +20659,7 @@
 		{
 		"uri": "info:regal/zettel/additionalNotes",
 		"comment": "",
-		"label": "Note",
+		"label": "Notes",
 		"icon": "fa fa-bars",
 		"name": "additionalNotes",
 		"referenceType": "String",
