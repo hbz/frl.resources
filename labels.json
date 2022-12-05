@@ -21769,7 +21769,7 @@
 	{
 		"uri": "http://purl.org/dc/terms/issued",
 		"comment": "",
-		"label": "Erschienen",
+		"label": "Publication year",
 		"icon": "",
 		"name": "issued",
 		"referenceType": "String",
