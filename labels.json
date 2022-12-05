@@ -19541,7 +19541,7 @@
 	{
 		"uri": "info:regal/zettel/identifiersHeader",
 		"comment": "",
-		"label": "External references",
+		"label": "External and internal references",
 		"icon": "",
 		"name": "",
 		"container": "",
@@ -19983,7 +19983,7 @@
 	},
 	{
 		"uri": "info:regal/zettel/uploadHeader",
-		"label": "File upload",
+		"label": "File information",
 		"referenceType": "String",
 		"type": "STORE",
 		"multilangLabel": {
@@ -20290,7 +20290,7 @@
 	{
 		"uri": "http://dbpedia.org/ontology/institution",
 		"comment": "",
-		"label": "Institution",
+		"label": "FRL-Collection",
 		"icon": "",
 		"name": "institution",
 		"referenceType": "@id",
@@ -20659,7 +20659,7 @@
 		{
 		"uri": "info:regal/zettel/additionalNotes",
 		"comment": "",
-		"label": "Additional notes",
+		"label": "Note",
 		"icon": "fa fa-bars",
 		"name": "additionalNotes",
 		"referenceType": "String",
@@ -20871,7 +20871,7 @@
 	{
 		"uri": "http://hbz-nrw.de/regal#projectId",
 		"comment": "",
-		"label": "Project-ID",
+		"label": "Funding number",
 		"icon": "",
 		"name": "projectId",
 		"referenceType": "String",
@@ -20899,7 +20899,7 @@
 	{
 		"uri": "http://hbz-nrw.de/regal#publicationYear",
 		"comment": "",
-		"label": "Publication year",
+		"label": "Published online",
 		"icon": "",
 		"name": "publicationYear",
 		"referenceType": "String",
@@ -21585,7 +21585,7 @@
 	{
 		"uri": "http://purl.org/dc/terms/abstract",
 		"comment": "",
-		"label": "Abstract",
+		"label": "Abstract/Summary",
 		"icon": "",
 		"name": "abstractText",
 		"referenceType": "String",
@@ -22277,7 +22277,7 @@
 	{
 		"uri": "http://purl.org/ontology/bibo/editor",
 		"comment": "",
-		"label": "Editor",
+		"label": "(Academic) Editor",
 		"icon": "",
 		"name": "editor",
 		"referenceType": "@id",
@@ -22969,7 +22969,7 @@
 	{
 		"uri": "info:regal/zettel/collectionOne",
 		"comment": "",
-		"label": "Leibniz Organisation",
+		"label": "LeibnizOpen",
 		"icon": "",
 		"name": "collectionOne",
 		"referenceType": "@id",
@@ -22983,7 +22983,7 @@
 		{
 		"uri": "info:regal/zettel/collectionTwo",
 		"comment": "",
-		"label": "German National Library",
+		"label": "Superior Congress",
 		"icon": "",
 		"name": "collectionTwo",
 		"referenceType": "@id",
