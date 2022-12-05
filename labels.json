@@ -21907,7 +21907,7 @@
 	{
 		"uri": "http://purl.org/lobid/lv#containedIn",
 		"comment": "**HELLO**",
-		"label": "Published as",
+		"label": "Published in",
 		"icon": "",
 		"name": "containedIn",
 		"referenceType": "@id",
