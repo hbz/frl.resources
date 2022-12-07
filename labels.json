@@ -21611,6 +21611,20 @@
 		}
 	},
 	{
+		"uri": "http://purl.org/dc/terms/references",
+		"comment": "",
+		"label": "Citation reference",
+		"icon": "",
+		"name": "citationReference",
+		"referenceType": "String",
+		"container": "",
+		"weight": "100",
+		"type": "CONTEXT",
+		"multilangLabel": {
+			
+		}
+	},
+	{
 		"uri": "http://purl.org/dc/terms/bibliographicCitation",
 		"comment": "",
 		"label": "Bibliographic citation",
@@ -21623,7 +21637,7 @@
 		"multilangLabel": {
 			
 		}
-	},
+	},	
 	{
 		"uri": "http://purl.org/dc/terms/contributor",
 		"comment": "",
