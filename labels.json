@@ -20559,6 +20559,13 @@
 		}
 	},
 	{
+		"uri": "info:regal/zettel/typeHeader",
+		"label": "Type of publication",
+		"referenceType": "String",
+		"type": "STORE",
+		"multilangLabel": {}
+	},
+	{
 		"uri": "http://hbz-nrw.de/regal#dataOrigin",
 		"comment": "",
 		"label": "Type of data collection",
