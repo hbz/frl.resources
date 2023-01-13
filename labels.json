@@ -9150,6 +9150,58 @@
 		}
 	},
 	{
+		"uri": "http://hbz-nrw.de/regal#MessungExSitu",
+		"comment": "",
+		"label": "Measurement ex situ",
+		"icon": "",
+		"name": "",
+		"container": "",
+		"weight": "",
+		"type": "STORE",
+		"multilangLabel": {
+			
+		}
+	},
+	{
+		"uri": "http://hbz-nrw.de/regal#MessungInSitu",
+		"comment": "",
+		"label": "Measurement in situ",
+		"icon": "",
+		"name": "",
+		"container": "",
+		"weight": "",
+		"type": "STORE",
+		"multilangLabel": {
+			
+		}
+	},
+	{
+		"uri": "http://hbz-nrw.de/regal#Ausbreitungsmodellierung",
+		"comment": "",
+		"label": "Air dispersion modelling",
+		"icon": "",
+		"name": "",
+		"container": "",
+		"weight": "",
+		"type": "STORE",
+		"multilangLabel": {
+			
+		}
+	},
+	{
+		"uri": "http://hbz-nrw.de/regal#Quelltermrückrechnung",
+		"comment": "",
+		"label": "Reverse dispersion modelling",
+		"icon": "",
+		"name": "",
+		"container": "",
+		"weight": "",
+		"type": "STORE",
+		"multilangLabel": {
+			
+		}
+	},	
+	{
 		"uri": "http://hbz-nrw.de/regal#original",
 		"comment": "",
 		"label": "Veröffentlichungsversion",
@@ -23197,19 +23249,19 @@
 			
 		}
 	},
-    {
-    "uri": "info.ktbl.projecttitle@en",
-    "comment": "",
-    "label": "Project title",
-    "icon": "",
-    "name": "",
-    "referenceType": "String",
-    "container": "",
-    "weight": "1",
-    "type": "CONTEXT",
-    "multilangLabel": {
-      
-    }
+	    {
+	    "uri": "info.ktbl.projecttitle@en",
+	    "comment": "",
+	    "label": "Project title",
+	    "icon": "",
+	    "name": "",
+	    "referenceType": "String",
+	    "container": "",
+	    "weight": "1",
+	    "type": "CONTEXT",
+	    "multilangLabel": {
+	      
+	    }
 	}
 	
 	
