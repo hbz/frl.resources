@@ -23294,7 +23294,7 @@
 		}
 	},
 		{
-		"uri": "info.ktbl.livestock",
+		"uri": "info.ktbl.livestock@en",
 		"comment": "",
 		"label": "Animal breed",
 		"icon": "",
@@ -23308,7 +23308,7 @@
 		}
 	},
 		{
-		"uri": "info.ktbl.treatment",
+		"uri": "info.ktbl.treatment@en",
 		"comment": "",
 		"label": "Livestock production",
 		"icon": "",
@@ -23322,7 +23322,7 @@
 		}
 	},
 		{
-		"uri": "info.ktbl.treatmentdetail",
+		"uri": "info.ktbl.treatmentdetail@en",
 		"comment": "",
 		"label": "Additional specifications of housing systems",
 		"icon": "",
