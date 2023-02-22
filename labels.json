@@ -19549,7 +19549,7 @@
 	{
 		"uri": "info:regal/zettel/catalogingHeader",
 		"comment": "",
-		"label": "Content information",
+		"label": "Angaben zum Inhalt",
 		"icon": "",
 		"name": "",
 		"container": "",
@@ -19560,7 +19560,29 @@
 		}
 	},
 	{
+		"uri": "info:regal/zettel/catalogingHeaderEn",
+		"comment": "",
+		"label": "Content information",
+		"icon": "",
+		"name": "",
+		"container": "",
+		"weight": "",
+		"type": "STORE",
+		"multilangLabel": {
+			
+		}
+	},
+		{
 		"uri": "info:regal/zettel/collectionHeader",
+		"label": "Zuordnung zur Sammlung",
+		"referenceType": "String",
+		"type": "STORE",
+		"multilangLabel": {
+			
+		}
+	},
+	{
+		"uri": "info:regal/zettel/collectionHeaderEn",
 		"label": "Assignment to the collection",
 		"referenceType": "String",
 		"type": "STORE",
@@ -19580,7 +19602,7 @@
 	{
 		"uri": "info:regal/zettel/fundingsHeader",
 		"comment": "",
-		"label": "Funding information",
+		"label": "Angaben zur Förderung",
 		"icon": "",
 		"name": "",
 		"container": "",
@@ -19591,7 +19613,33 @@
 		}
 	},
 	{
+		"uri": "info:regal/zettel/fundingsHeaderEn",
+		"comment": "",
+		"label": "Funding information",
+		"icon": "",
+		"name": "",
+		"container": "",
+		"weight": "",
+		"type": "STORE",
+		"multilangLabel": {
+			
+		}
+	},	
+	{
 		"uri": "info:regal/zettel/identifiersHeader",
+		"comment": "",
+		"label": "Externe und interne Referenzen",
+		"icon": "",
+		"name": "",
+		"container": "",
+		"weight": "",
+		"type": "STORE",
+		"multilangLabel": {
+			
+		}
+	},	
+	{
+		"uri": "info:regal/zettel/identifiersHeaderEn",
 		"comment": "",
 		"label": "External and internal references",
 		"icon": "",
@@ -19605,6 +19653,19 @@
 	},
 	{
 		"uri": "info:regal/zettel/additionalNotesHeader",
+		"comment": "",
+		"label": "Erweiterte Angaben",
+		"icon": "",
+		"name": "",
+		"container": "",
+		"weight": "",
+		"type": "STORE",
+		"multilangLabel": {
+			
+		}
+	},	
+	{
+		"uri": "info:regal/zettel/additionalNotesHeaderEn",
 		"comment": "",
 		"label": "Additional notes",
 		"icon": "",
@@ -19993,7 +20054,7 @@
 			
 		}
 	},
-	{
+		{
 		"uri": "info:regal/zettel/observationHeader",
 		"label": "Recording",
 		"referenceType": "String",
@@ -20003,7 +20064,25 @@
 		}
 	},
 	{
+		"uri": "info:regal/zettel/observationHeaderEn",
+		"label": "Erfassung",
+		"referenceType": "String",
+		"type": "STORE",
+		"multilangLabel": {
+			
+		}
+	},
+	{
 		"uri": "info:regal/zettel/publicationsHeader",
+		"label": "Zugehörige Publikationen",
+		"referenceType": "String",
+		"type": "STORE",
+		"multilangLabel": {
+			
+		}
+	},
+	{
+		"uri": "info:regal/zettel/publicationsHeaderEn",
 		"label": "Associated publications",
 		"referenceType": "String",
 		"type": "STORE",
@@ -20011,9 +20090,9 @@
 			
 		}
 	},
-	{
+		{
 		"uri": "info:regal/zettel/statusHeader",
-		"label": "Publication information",
+		"label": "Angaben zur Publikationn",
 		"referenceType": "String",
 		"type": "STORE",
 		"multilangLabel": {
@@ -20021,7 +20100,29 @@
 		}
 	},
 	{
+		"uri": "info:regal/zettel/statusHeaderEn",
+		"label": "Publication information",
+		"referenceType": "String",
+		"type": "STORE",
+		"multilangLabel": {
+			
+		}
+	},
+		{
 		"uri": "info:regal/zettel/titleHeader",
+		"comment": "",
+		"label": "Angaben zum Titel",
+		"icon": "",
+		"name": "",
+		"container": "",
+		"weight": "",
+		"type": "STORE",
+		"multilangLabel": {
+			
+		}
+	},
+	{
+		"uri": "info:regal/zettel/titleHeaderEn",
 		"comment": "",
 		"label": "Title information",
 		"icon": "",
@@ -20035,12 +20136,25 @@
 	},
 	{
 		"uri": "info:regal/zettel/uploadHeader",
-		"label": "File information",
-		"referenceType": "String",
+		"comment": "",
+		"label": "Angaben zur Datei",
+		"icon": "",
+		"name": "",
+		"container": "",
+		"weight": "",
 		"type": "STORE",
-		"multilangLabel": {
-			
-		}
+		"multilangLabel": {}
+	},
+	{
+		"uri": "info:regal/zettel/uploadHeaderEn",
+		"comment": "",
+		"label": "File information",
+		"icon": "",
+		"name": "",
+		"container": "",
+		"weight": "",
+		"type": "STORE",
+		"multilangLabel": {}
 	},
 	{
 		"uri": "ttps://creativecommons.org/publicdomain/zero/1.0/",
@@ -22856,7 +22970,7 @@
 		"multilangLabel": {
 			
 		}
-	},
+	},	
 	{
 		"uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
 		"comment": "",
@@ -23070,6 +23184,20 @@
 	{
 		"uri": "info:regal/zettel/creatorshipHeader",
 		"comment": "",
+		"label": "Angaben zur Urheberschaft",
+		"icon": "",
+		"name": "",
+		"referenceType": "String",
+		"container": "",
+		"weight": "",
+		"type": "CONTEXT",
+		"multilangLabel": {
+			
+		}
+	},
+		{
+		"uri": "info:regal/zettel/creatorshipHeaderEn",
+		"comment": "",
 		"label": "Creatorship",
 		"icon": "",
 		"name": "",
@@ -23109,8 +23237,22 @@
 			
 		}
 	},
-	{
+		{
 		"uri": "info:regal/zettel/resourceHeader",
+		"comment": "",
+		"label": "Angaben zur Quelle",
+		"icon": "",
+		"name": "",
+		"referenceType": "String",
+		"container": "",
+		"weight": "1",
+		"type": "CONTEXT",
+		"multilangLabel": {
+			
+		}
+	},
+	{
+		"uri": "info:regal/zettel/resourceHeaderEn",
 		"comment": "",
 		"label": "Source information",
 		"icon": "",
@@ -23138,11 +23280,11 @@
 		}
 	},
 		{
-		"uri": "info.ktbl.livestock@en",
+		"uri": "info.ktbl.livestock",
 		"comment": "",
 		"label": "Animal breed",
 		"icon": "",
-		"name": "livestock@en",
+		"name": "",
 		"referenceType": "String",
 		"container": "",
 		"weight": "1",
@@ -23152,11 +23294,11 @@
 		}
 	},
 		{
-		"uri": "info.ktbl.treatment@en",
+		"uri": "info.ktbl.treatment",
 		"comment": "",
 		"label": "Livestock production",
 		"icon": "",
-		"name": "treatment@en",
+		"name": "",
 		"referenceType": "String",
 		"container": "",
 		"weight": "1",
@@ -23166,11 +23308,11 @@
 		}
 	},
 		{
-		"uri": "info.ktbl.treatmentdetail@en",
+		"uri": "info.ktbl.treatmentdetail",
 		"comment": "",
 		"label": "Additional specifications of housing systems",
 		"icon": "",
-		"name": "treatmentdetail@en",
+		"name": "",
 		"referenceType": "String",
 		"container": "",
 		"weight": "1",
@@ -23184,7 +23326,7 @@
 		"comment": "",
 		"label": "Housing systems",
 		"icon": "",
-		"name": "housing@en",
+		"name": "",
 		"referenceType": "String",
 		"container": "",
 		"weight": "1",
@@ -23198,7 +23340,7 @@
 		"comment": "",
 		"label": "Ventilation system",
 		"icon": "",
-		"name": "ventilation@en",
+		"name": "",
 		"referenceType": "String",
 		"container": "",
 		"weight": "1",
@@ -23212,7 +23354,7 @@
 		"comment": "",
 		"label": "Emission reduction methods",
 		"icon": "",
-		"name": "emissionreduce@en",
+		"name": "",
 		"referenceType": "String",
 		"container": "",
 		"weight": "1",
@@ -23226,7 +23368,7 @@
 		"comment": "",
 		"label": "Emission measurement techniques",
 		"icon": "",
-		"name": "emissionprobe@en",
+		"name": "",
 		"referenceType": "String",
 		"container": "",
 		"weight": "1",
@@ -23240,7 +23382,7 @@
 		"comment": "",
 		"label": "Emissions",
 		"icon": "",
-		"name": "emission@en",
+		"name": "",
 		"referenceType": "String",
 		"container": "",
 		"weight": "1",
@@ -23254,7 +23396,7 @@
 	    "comment": "",
 	    "label": "Project title",
 	    "icon": "",
-	    "name": "projecttitle@en",
+	    "name": "",
 	    "referenceType": "String",
 	    "container": "",
 	    "weight": "1",
