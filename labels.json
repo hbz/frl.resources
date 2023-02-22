@@ -20748,6 +20748,20 @@
 	{
 		"uri": "http://hbz-nrw.de/regal#ddc",
 		"comment": "",
+		"label": "Fächerklassifikation (DDC)",
+		"icon": "fa fa-tag",
+		"name": "ddc",
+		"referenceType": "@id",
+		"container": "@set",
+		"weight": "1000",
+		"type": "CONTEXT",
+		"multilangLabel": {
+			
+		}
+	},
+	{
+		"uri": "http://hbz-nrw.de/regal#ddcEn",
+		"comment": "",
 		"label": "Subject classification (DDC)",
 		"icon": "fa fa-tag",
 		"name": "ddc",
@@ -21853,7 +21867,7 @@
 	{
 		"uri": "http://purl.org/dc/terms/creator",
 		"comment": "",
-		"label": "Creator",
+		"label": ["Autor/in" , "Creator"],
 		"icon": "",
 		"name": "creator",
 		"referenceType": "@id",
