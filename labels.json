@@ -20092,7 +20092,7 @@
 	},
 		{
 		"uri": "info:regal/zettel/statusHeader",
-		"label": "Angaben zur Publikationn",
+		"label": "Angaben zur Publikation",
 		"referenceType": "String",
 		"type": "STORE",
 		"multilangLabel": {
